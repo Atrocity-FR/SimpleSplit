@@ -1,0 +1,1 @@
+Simple script en Python pour Slipt un fichier en plusieurs parties.
